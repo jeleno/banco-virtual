@@ -1,0 +1,7 @@
+c:\users\mateu\source\repos\BancoVirtual\BancoVirtual\bin\Debug\BancoVirtual.exe.config
+c:\users\mateu\source\repos\BancoVirtual\BancoVirtual\bin\Debug\BancoVirtual.exe
+c:\users\mateu\source\repos\BancoVirtual\BancoVirtual\bin\Debug\BancoVirtual.pdb
+c:\users\mateu\source\repos\BancoVirtual\BancoVirtual\obj\Debug\BancoVirtual.csprojAssemblyReference.cache
+c:\users\mateu\source\repos\BancoVirtual\BancoVirtual\obj\Debug\BancoVirtual.csproj.CoreCompileInputs.cache
+c:\users\mateu\source\repos\BancoVirtual\BancoVirtual\obj\Debug\BancoVirtual.exe
+c:\users\mateu\source\repos\BancoVirtual\BancoVirtual\obj\Debug\BancoVirtual.pdb
